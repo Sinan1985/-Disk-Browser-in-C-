@@ -1,0 +1,16 @@
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\bin\Debug\net8.0-windows\DTool.exe
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\bin\Debug\net8.0-windows\DTool.deps.json
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\bin\Debug\net8.0-windows\DTool.runtimeconfig.json
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\bin\Debug\net8.0-windows\DTool.dll
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\bin\Debug\net8.0-windows\DTool.pdb
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.Form1.resources
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.csproj.GenerateResource.cache
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.AssemblyInfoInputs.cache
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.AssemblyInfo.cs
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.csproj.CoreCompileInputs.cache
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.dll
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\refint\DTool.dll
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.pdb
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.genruntimeconfig.cache
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\ref\DTool.dll
