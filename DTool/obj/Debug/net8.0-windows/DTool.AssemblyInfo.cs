@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91e5a9d46e05f65079a18cb6c83cbef44e5b1797")]
 [assembly: System.Reflection.AssemblyProductAttribute("DTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

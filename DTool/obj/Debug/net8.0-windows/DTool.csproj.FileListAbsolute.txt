@@ -14,3 +14,4 @@ C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\refint
 C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.pdb
 C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.genruntimeconfig.cache
 C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\ref\DTool.dll
+C:\Users\eng_s\Documents\Learning\C#\DTool\DTool\obj\Debug\net8.0-windows\DTool.sourcelink.json

@@ -29,6 +29,9 @@
             treeView1 = new TreeView();
             listView1 = new ListView();
             columnHeader1 = new ColumnHeader();
+            columnHeader2 = new ColumnHeader();
+            columnHeader3 = new ColumnHeader();
+            columnHeader4 = new ColumnHeader();
             splitter1 = new Splitter();
             SuspendLayout();
             // 
@@ -44,7 +47,7 @@
             // 
             // listView1
             // 
-            listView1.Columns.AddRange(new ColumnHeader[] { columnHeader1 });
+            listView1.Columns.AddRange(new ColumnHeader[] { columnHeader1, columnHeader2, columnHeader3, columnHeader4 });
             listView1.Dock = DockStyle.Fill;
             listView1.Location = new Point(199, 0);
             listView1.Name = "listView1";
@@ -52,11 +55,24 @@
             listView1.TabIndex = 1;
             listView1.UseCompatibleStateImageBehavior = false;
             listView1.View = View.Details;
+            listView1.DoubleClick += listView1_DoubleClick;
             // 
             // columnHeader1
             // 
             columnHeader1.Text = "File Name";
             columnHeader1.Width = 200;
+            // 
+            // columnHeader2
+            // 
+            columnHeader2.Text = "Size";
+            // 
+            // columnHeader3
+            // 
+            columnHeader3.Text = "Modified";
+            // 
+            // columnHeader4
+            // 
+            columnHeader4.Text = "Attr";
             // 
             // splitter1
             // 
@@ -86,5 +102,8 @@
         private ListView listView1;
         private Splitter splitter1;
         private ColumnHeader columnHeader1;
+        private ColumnHeader columnHeader2;
+        private ColumnHeader columnHeader3;
+        private ColumnHeader columnHeader4;
     }
 }
